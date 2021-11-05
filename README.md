@@ -6,7 +6,7 @@
 berikut flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 
 
-![Gambar 1](screenshot/Flowchart.png)
+![Gambar 1](screenshot/Flowchart.png Title" {width=40px height=400px})
 
 
 # Menggunakan statement if untuk mencari nilai terbesar dari 3 bilangan
